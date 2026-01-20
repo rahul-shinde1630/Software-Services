@@ -1,0 +1,711 @@
+
+<?php
+include("includes/header.php");
+?>
+<!--hero section start-->
+
+<section class="banner">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-lg-6 col-md-12 order-lg-1 ps-lg-8">
+        <div class="banner-img wow animate__fadeInRight animate__slow">
+          <img class="img-fluid banner-img2 rounded topBottom" src="images/banner/02.png" alt="">
+          <div class="macbook-box box-shadow">
+            <img class="img-fluid" src="images/banner/01.jpg" alt="">
+          </div>
+          <img class="img-fluid banner-img3 rounded leftRight" src="images/banner/03.png" alt="">
+        </div>
+      </div>
+      <div class="col-lg-6 col-md-12 mt-8 mt-lg-0">
+        <h1 class="mb-4 wow animate__shakeX animate__slow">New Generation Of <span>Software</span> Design </h1>
+        <p class="lead mb-5 wow animate__zoomIn animate__slow">Make your awesome business idea a reality with Soften, High-performing software solutions that drive your business forward solutions.</p>
+        <div class="wow animate__fadeInUp animate__slow">
+          <a class="themeht-btn" href="contact.phpx">Get Started</a>
+          <a class="themeht-btn dark-btn ms-3" href="contact.php">Contact Us</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="round-shape-animation"></div>
+</section>
+
+<!--hero section end-->
+
+
+<!--body content start-->
+
+<div class="page-content">
+
+<!--service start-->
+
+<section>
+  <div class="container">
+    <div class="row justify-content-center text-center">
+      <div class="col-lg-8 col-md-12">
+        <div class="theme-title">
+          <h6>Services</h6>
+          <h2>Feel The Power Of Technology Software Service</h2>
+        </div>
+      </div>
+    </div>
+    <div class="row gx-lg-5 text-center">
+      <div class="col-lg-4 col-md-6">
+        <div class="service-item style-1">
+          <div class="service-images">
+            <img class="img-fluid" src="images/service-icon/01.png" alt="">
+          </div>
+          <div class="service-desc">
+            <div class="service-title">
+              <h4>Software Design</h4>
+            </div>
+            <p>We provide best Software Service for any type of business as stragegy, management.</p>
+            <a class="service-btn" href="services-single.html">
+              <i class="bi bi-arrow-right-short"></i>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-6 mt-6 mt-md-0">
+        <div class="service-item style-1">
+          <div class="service-images">
+            <img class="img-fluid" src="images/service-icon/02.png" alt="">
+          </div>
+          <div class="service-desc">
+            <div class="service-title">
+              <h4>Data Security</h4>
+            </div>
+            <p>We provide best Software Service for any type of business as stragegy, management.</p>
+            <a class="service-btn" href="services-single.html">
+              <i class="bi bi-arrow-right-short"></i>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-6 mt-6 mt-lg-0">
+        <div class="service-item style-1">
+          <div class="service-images">
+            <img class="img-fluid" src="images/service-icon/03.png" alt="">
+          </div>
+          <div class="service-desc">
+            <div class="service-title">
+              <h4>App Integration</h4>
+            </div>
+            <p>We provide best Software Service for any type of business as stragegy, management.</p>
+            <a class="service-btn" href="services-single.html">
+              <i class="bi bi-arrow-right-short"></i>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!--service end-->
+
+
+<!--about start-->
+
+<section>
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-lg-6 col-md-12">
+        <img class="img-fluid" src="images/about/03.png" alt="">
+      </div>
+      <div class="col-lg-6 col-md-12 mt-6 mt-lg-0 ps-lg-10">
+        <div class="theme-title mb-4">
+          <h6>About Us</h6>
+          <h2>We're Best In Software Development</h2>
+        </div>
+        <p class="mb-5">Scale your software operations through a custom engineering team. Meet the demand of your company’s operations with a high-performing nearshore team skilled in the technologies you need.</p>
+        <a class="themeht-btn" href="#">See About Us</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!--about end-->
+
+
+<!--feature start-->
+
+<section class="service-sec position-relative">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-md-12">
+        <div class="theme-title z-index-1">
+          <h6>Features</h6>
+          <h2>We Provide Exciting Feature</h2>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-3 col-md-6">
+        <div class="featured-item style-1">
+          <div class="featured-icon">
+            <img class="img-fluid" src="images/feature/01.png" alt="">
+          </div>
+          <div class="featured-title">
+            <h5>Digital Design</h5>
+          </div>
+          <div class="featured-desc">
+            <p>See your authentic mission, and values come to life with a unique brand image.</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-6 mt-6 mt-md-0">
+        <div class="featured-item style-1">
+          <div class="featured-icon">
+            <img class="img-fluid" src="images/feature/02.png" alt="">
+          </div>
+          <div class="featured-title">
+            <h5>New Brands</h5>
+          </div>
+          <div class="featured-desc">
+            <p>See your authentic mission, and values come to life with a unique brand image.</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-6 mt-6 mt-lg-0">
+        <div class="featured-item style-1">
+          <div class="featured-icon">
+            <img class="img-fluid" src="images/feature/03.png" alt="">
+          </div>
+          <div class="featured-title">
+            <h5>User Experience</h5>
+          </div>
+          <div class="featured-desc">
+            <p>See your authentic mission, and values come to life with a unique brand image.</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-6 mt-6 mt-lg-0">
+        <div class="featured-item style-1">
+          <div class="featured-icon">
+            <img class="img-fluid" src="images/feature/04.png" alt="">
+          </div>
+          <div class="featured-title">
+            <h5>Helping Support</h5>
+          </div>
+          <div class="featured-desc">
+            <p>See your authentic mission, and values come to life with a unique brand image.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!--feature end-->
+
+
+<!--about start-->
+
+<section class="mt-10">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-lg-6 col-md-12 order-lg-1">
+        <div class="about-img-box">
+          <img class="img-fluid" src="images/about/01.jpg" alt="">
+        </div>
+      </div>
+      <div class="col-lg-6 col-md-12 mt-6 mt-lg-0 pe-lg-10">
+        <div class="theme-title mb-4">
+          <h6>What We Do</h6>
+          <h2>Online Reporting To Get Best Of Business</h2>
+          <p>Scale your software operations through a custom engineering team. Meet the demand of your company’s operations with a high-performing nearshore team skilled in the technologies you need.</p>
+        </div>
+        <ul class="list-unstyled list-icon">
+          <li>
+            <i class="bi bi-check-lg"></i> Web development tehnology
+          </li>
+          <li>
+            <i class="bi bi-check-lg"></i> 10 Years of experience
+          </li>
+          <li>
+            <i class="bi bi-check-lg"></i> Top skilled engineers from everywhere
+          </li>
+          <li>
+            <i class="bi bi-check-lg"></i> Best Features that Keep Us Ahed
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!--about end-->
+
+
+<!--marquee start-->
+
+<section class="overflow-hidden p-0">
+  <div class="container-fluid p-0">
+    <div class="row">
+      <div class="col">
+        <div class="marquee-wrap">
+          <div class="marquee-text">
+            <span>A Smart Software Application</span>
+            <i class="bi bi-dot"></i>
+            <span>Sass Landing Page</span>
+            <i class="bi bi-dot"></i>
+            <span>Build Software For Business</span>
+            <i class="bi bi-dot"></i>
+            <span>Startup Business</span>
+            <i class="bi bi-dot"></i>
+            <span>Creative Design</span>
+            <i class="bi bi-dot"></i>
+            <span>Software & Sass Landing Page</span>
+            <i class="bi bi-dot"></i>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!--marquee end-->
+
+
+<!--portfolio start-->
+
+<section>
+  <div class="container">
+    <div class="row justify-content-center text-center">
+      <div class="col-lg-8 col-md-12">
+        <div class="theme-title">
+          <h6>Portfolio</h6>
+          <h2>Let's Check Some Awesome Work From Soften</h2>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-8 col-md-12">
+        <div class="portfolio-item">
+          <div class="portfolio-img">
+            <img class="img-fluid w-100" src="images/portfolio/01.jpg" alt="">
+          </div>
+          <div class="portfolio-desc">
+            <h4>
+              <a href="portfolio-single.html">UI/UX Design</a>
+            </h4>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-12 mt-5 mt-lg-0">
+        <div class="portfolio-item">
+          <div class="portfolio-img">
+            <img class="img-fluid w-100" src="images/portfolio/02.jpg" alt="">
+          </div>
+          <div class="portfolio-desc">
+            <h4>
+              <a href="portfolio-single.html">Mobile App</a>
+            </h4>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row mt-8">
+      <div class="col-lg-8 col-md-12 order-lg-1">
+        <div class="portfolio-item">
+          <div class="portfolio-img">
+            <img class="img-fluid w-100" src="images/portfolio/03.jpg" alt="">
+          </div>
+          <div class="portfolio-desc">
+            <h4>
+              <a href="portfolio-single.html">Web Design</a>
+            </h4>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-12 mt-5 mt-lg-0">
+        <div class="portfolio-item">
+          <div class="portfolio-img">
+            <img class="img-fluid w-100" src="images/portfolio/04.jpg" alt="">
+          </div>
+          <div class="portfolio-desc">
+            <h4>
+              <a href="portfolio-single.html">Marketing Design</a>
+            </h4>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!--portfolio end-->
+
+
+<!--pricing start-->
+
+<section class="light-bg" data-bg-img="images/bg/02.png">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-md-12">
+        <div class="theme-title z-index-1">
+          <h6>Pricing Plan</h6>
+          <h2>Choose Affordable Prices</h2>
+        </div>
+      </div>
+    </div>
+    <div class="row align-items-center">
+      <div class="col-lg-4 col-md-12">
+        <div class="price-table">
+          <div class="price-header">
+            <div>
+              <h3 class="price-title">Basic</h3>
+              <div class="price-value">
+                <h2>
+                  <sup>$</sup>34
+                </h2>
+                <span>/Month</span>
+              </div>
+            </div>
+            <div class="price-icon">
+              <img class="img-fluid" src="images/price-icon/01.png" alt="">
+            </div>
+          </div>
+          <p>Our plans come with a 100% free 14 day trial. No credit card needed.</p>
+          <div class="price-list">
+            <ul class="list-unstyled">
+              <li>
+                <i class="bi bi-check-lg"></i>50 Gb Bandwidth
+              </li>
+              <li>
+                <i class="bi bi-check-lg"></i>Unlimited Site licenses
+              </li>
+              <li>
+                <i class="bi bi-check-lg"></i>10 Free Optimization
+              </li>
+              <li>
+                <i class="bi bi-check-lg"></i>24/7 Hours Support
+              </li>
+            </ul>
+          </div>
+          <a class="themeht-btn mt-5" href="#">Purchase Now</a>
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-12 mt-6 mt-lg-0">
+        <div class="price-table">
+          <div class="price-header">
+            <div>
+              <h3 class="price-title">Standard</h3>
+              <div class="price-value">
+                <h2>
+                  <sup>$</sup>49
+                </h2>
+                <span>/Month</span>
+              </div>
+            </div>
+            <div class="price-icon">
+              <img class="img-fluid" src="images/price-icon/02.png" alt="">
+            </div>
+          </div>
+          <p>Our plans come with a 100% free 14 day trial. No credit card needed.</p>
+          <div class="price-list">
+            <ul class="list-unstyled">
+              <li>
+                <i class="bi bi-check-lg"></i>50 Gb Bandwidth
+              </li>
+              <li>
+                <i class="bi bi-check-lg"></i>Unlimited Site licenses
+              </li>
+              <li>
+                <i class="bi bi-check-lg"></i>10 Free Optimization
+              </li>
+              <li>
+                <i class="bi bi-check-lg"></i>24/7 Hours Support
+              </li>
+            </ul>
+          </div>
+          <a class="themeht-btn mt-5" href="#">Purchase Now</a>
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-12 mt-6 mt-lg-0">
+        <div class="price-table">
+          <div class="price-header">
+            <div>
+              <h3 class="price-title">Premium</h3>
+              <div class="price-value">
+                <h2>
+                  <sup>$</sup>59
+                </h2>
+                <span>/Month</span>
+              </div>
+            </div>
+            <div class="price-icon">
+              <img class="img-fluid" src="images/price-icon/03.png" alt="">
+            </div>
+          </div>
+          <p>Our plans come with a 100% free 14 day trial. No credit card needed.</p>
+          <div class="price-list">
+            <ul class="list-unstyled">
+              <li>
+                <i class="bi bi-check-lg"></i>50 Gb Bandwidth
+              </li>
+              <li>
+                <i class="bi bi-check-lg"></i>Unlimited Site licenses
+              </li>
+              <li>
+                <i class="bi bi-check-lg"></i>10 Free Optimization
+              </li>
+              <li>
+                <i class="bi bi-check-lg"></i>24/7 Hours Support
+              </li>
+            </ul>
+          </div>
+          <a class="themeht-btn mt-5" href="#">Purchase Now</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!--pricing end-->
+
+
+<!--testimonial start-->
+
+<section>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-6">
+        <div class="theme-title">
+          <h6>Testimonial</h6>
+          <h2>Some Words From Our Happy Clients</h2>
+        </div>
+        <div class="row">
+          <div class="col-md-6 mt-md-10">
+            <div class="testimonial style-1">
+              <div class="testimonial-media">
+                <div class="testimonial-img">
+                  <img class="img-fluid" src="images/testimonial/01.jpg" alt="">
+                </div>
+                <div class="testimonial-quote">
+                  <i class="flaticon flaticon-quote"></i>
+                </div>
+              </div>
+              <p>We’re building a better application now, thanks to Soften. amazing for the small businesses around the world.</p>
+              <div class="testimonial-caption">
+                <h5>Roxie Payne</h5>
+                <label>Manager of Soften</label>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 mt-10 mt-md-0">
+            <div class="testimonial style-1">
+              <div class="testimonial-media">
+                <div class="testimonial-img">
+                  <img class="img-fluid" src="images/testimonial/02.jpg" alt="">
+                </div>
+                <div class="testimonial-quote">
+                  <i class="flaticon flaticon-quote"></i>
+                </div>
+              </div>
+              <p>We’re building a better application now, thanks to Soften. amazing for the small businesses around the world.</p>
+              <div class="testimonial-caption">
+                <h5>Jackson Vore</h5>
+                <label>CEO of Soften</label>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-6">
+        <div class="row">
+          <div class="col-md-6 mt-10">
+            <div class="testimonial style-1">
+              <div class="testimonial-media">
+                <div class="testimonial-img">
+                  <img class="img-fluid" src="images/testimonial/03.jpg" alt="">
+                </div>
+                <div class="testimonial-quote">
+                  <i class="flaticon flaticon-quote"></i>
+                </div>
+              </div>
+              <p>We’re building a better application now, thanks to Soften. amazing for the small businesses around the world.</p>
+              <div class="testimonial-caption">
+                <h5>Breiny Lucy</h5>
+                <label>HR of Soften</label>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 mt-10 mt-md-0">
+            <div class="testimonial style-1">
+              <div class="testimonial-media">
+                <div class="testimonial-img">
+                  <img class="img-fluid" src="images/testimonial/04.jpg" alt="">
+                </div>
+                <div class="testimonial-quote">
+                  <i class="flaticon flaticon-quote"></i>
+                </div>
+              </div>
+              <p>We’re building a better application now, thanks to Soften. amazing for the small businesses around the world.</p>
+              <div class="testimonial-caption">
+                <h5>Camryn Kay</h5>
+                <label>CEO of Soften</label>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!--testimonial end-->
+
+
+<!--counter start-->
+
+<section class="p-0 text-center">
+  <div class="container">
+    <div class="row">
+     <div class="col">
+      <div class="p-8 white-bg rounded" data-bg-img="images/bg/02.png">
+        <div class="row">
+          <div class="col-lg-3 col-sm-6">
+            <div class="counter">
+              <div class="counter-desc">
+                <span class="count-number" data-count="482">482</span>
+                <span>+</span>
+                <h5>Project Done</h5>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-sm-6 mt-6 mt-sm-0">
+            <div class="counter">
+              <div class="counter-desc">
+                <span class="count-number" data-count="98">98</span>
+                <span>%</span>
+                <h5>Success Rate</h5>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-sm-6 mt-6 mt-lg-0">
+            <div class="counter">
+              <div class="counter-desc">
+                <span class="count-number" data-count="234">234</span>
+                <span>+</span>
+                <h5>Winning Awards</h5>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-sm-6 mt-6 mt-lg-0">
+            <div class="counter">
+              <div class="counter-desc">
+                <span class="count-number" data-count="72">72</span>
+                <span>K</span>
+                <h5>Happy Client</h5>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+     </div>
+    </div>
+  </div>
+</section>
+
+<!--counter end-->
+
+
+<!--blog start-->
+
+<section>
+  <div class="container">
+    <div class="row justify-content-center text-center">
+      <div class="col-lg-10 col-md-12">
+        <div class="theme-title">
+          <h6>Blog Post</h6>
+          <h2>Our Latest News</h2>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-4 col-md-12">
+        <div class="post-card">
+          <div class="post-image">
+            <img class="img-fluid w-100" src="images/blog/01.jpg" alt="">
+          </div>
+          <div class="post-desc">
+            <div class="post-meta">
+              <ul class="list-inline">
+                <li>
+                  <i class="bi bi-calendar3 me-1"></i> 23 Sep, 2023
+                </li>
+                <li>
+                  <i class="bi bi-person me-1"></i> By ThemeHt
+                </li>
+              </ul>
+            </div>
+            <div class="post-title">
+              <h4>
+                <a href="blog-single.html">How to keep up with SAAS trends in 2023</a>
+              </h4>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-12 mt-6 mt-lg-0">
+        <div class="post-card">
+          <div class="post-image">
+            <img class="img-fluid w-100" src="images/blog/02.jpg" alt="">
+          </div>
+          <div class="post-desc">
+            <div class="post-meta">
+              <ul class="list-inline">
+                <li>
+                  <i class="bi bi-calendar3 me-1"></i> 23 Sep, 2023
+                </li>
+                <li>
+                  <i class="bi bi-person me-1"></i> By ThemeHt
+                </li>
+              </ul>
+            </div>
+            <div class="post-title">
+              <h4>
+                <a href="blog-single.html">5G Future Faster Internet, Better Cloud</a>
+              </h4>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-12 mt-6 mt-lg-0">
+        <div class="post-card">
+          <div class="post-image">
+            <img class="img-fluid w-100" src="images/blog/03.jpg" alt="">
+          </div>
+          <div class="post-desc">
+            <div class="post-meta">
+              <ul class="list-inline">
+                <li>
+                  <i class="bi bi-calendar3 me-1"></i> 23 Sep, 2023
+                </li>
+                <li>
+                  <i class="bi bi-person me-1"></i> By ThemeHt
+                </li>
+              </ul>
+            </div>
+            <div class="post-title">
+              <h4>
+                <a href="blog-single.html">Web marketing & social media trade digest</a>
+              </h4>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!--blog end-->
+
+</div>
+
+<!--body content end--> 
+
+<?php
+include("includes/footer.php");
+?>
