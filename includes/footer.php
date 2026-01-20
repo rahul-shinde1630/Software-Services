@@ -4,7 +4,7 @@
     <div class="primary-footer">
       <div class="row">
         <div class="col-lg-5 col-md-12">
-          <h5>  Me Rahul Shinde </h5>
+          <h5>  Me Rahul Shinde... </h5>
           <ul class="media-icon list-unstyled mb-8">
             <li>
               <p class="mb-0">5th Street, 21st Floor, New York, USA </p>
