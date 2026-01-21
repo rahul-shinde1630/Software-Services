@@ -618,84 +618,98 @@ include("includes/header.php");
     <div class="row justify-content-center text-center">
       <div class="col-lg-10 col-md-12">
         <div class="theme-title">
-          <h6>Blog Post</h6>
-          <h2>Our Latest News</h2>
+          <h6>Blog & Updates</h6>
+          <h2>Our Latest Tech News</h2>
         </div>
       </div>
     </div>
+
     <div class="row">
+
+      <!-- ✅ Blog 1 -->
       <div class="col-lg-4 col-md-12">
         <div class="post-card">
           <div class="post-image">
-            <img class="img-fluid w-100" src="images/blog/01.jpg" alt="">
+            <img class="img-fluid w-100" src="images/blog/01.jpg" alt="Web Development">
           </div>
+
           <div class="post-desc">
             <div class="post-meta">
               <ul class="list-inline">
                 <li>
-                  <i class="bi bi-calendar3 me-1"></i> 23 Sep, 2023
+                  <i class="bi bi-calendar3 me-1"></i> 21 Jan, 2026
                 </li>
                 <li>
-                  <i class="bi bi-person me-1"></i> By ThemeHt
+                  <i class="bi bi-person me-1"></i> By Software Services Innovation
                 </li>
               </ul>
             </div>
+
             <div class="post-title">
               <h4>
-                <a href="blog-single.html">How to keep up with SAAS trends in 2023</a>
+                <a href="blog-single.php">Top 7 Web Development Trends in 2026</a>
               </h4>
             </div>
           </div>
         </div>
       </div>
+
+      <!-- ✅ Blog 2 -->
       <div class="col-lg-4 col-md-12 mt-6 mt-lg-0">
         <div class="post-card">
           <div class="post-image">
-            <img class="img-fluid w-100" src="images/blog/02.jpg" alt="">
+            <img class="img-fluid w-100" src="images/blog/02.jpg" alt="Mobile App Development">
           </div>
+
           <div class="post-desc">
             <div class="post-meta">
               <ul class="list-inline">
                 <li>
-                  <i class="bi bi-calendar3 me-1"></i> 23 Sep, 2023
+                  <i class="bi bi-calendar3 me-1"></i> 18 Jan, 2026
                 </li>
                 <li>
-                  <i class="bi bi-person me-1"></i> By ThemeHt
+                  <i class="bi bi-person me-1"></i> By Software Services Innovation
                 </li>
               </ul>
             </div>
+
             <div class="post-title">
               <h4>
-                <a href="blog-single.html">5G Future Faster Internet, Better Cloud</a>
+                <a href="blog-single.php">Android vs iOS: Which is Better for Your Business?</a>
               </h4>
             </div>
           </div>
         </div>
       </div>
+
+      <!-- ✅ Blog 3 -->
       <div class="col-lg-4 col-md-12 mt-6 mt-lg-0">
         <div class="post-card">
           <div class="post-image">
-            <img class="img-fluid w-100" src="images/blog/03.jpg" alt="">
+            <img class="img-fluid w-100" src="images/blog/03.jpg" alt="Cloud & DevOps">
           </div>
+
           <div class="post-desc">
             <div class="post-meta">
               <ul class="list-inline">
                 <li>
-                  <i class="bi bi-calendar3 me-1"></i> 23 Sep, 2023
+                  <i class="bi bi-calendar3 me-1"></i> 12 Jan, 2026
                 </li>
                 <li>
-                  <i class="bi bi-person me-1"></i> By ThemeHt
+                  <i class="bi bi-person me-1"></i> By Software Services Innovation
                 </li>
               </ul>
             </div>
+
             <div class="post-title">
               <h4>
-                <a href="blog-single.html">Web marketing & social media trade digest</a>
+                <a href="blog-single.php">Cloud & DevOps: Why Automation is Important in 2026</a>
               </h4>
             </div>
           </div>
         </div>
       </div>
+
     </div>
   </div>
 </section>

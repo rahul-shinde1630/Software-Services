@@ -3,125 +3,132 @@
   <div class="container">
     <div class="primary-footer">
       <div class="row">
+
+        <!-- ✅ Left Side -->
         <div class="col-lg-5 col-md-12">
-          <h5>  Me Rahul Shinde... </h5>
+          <h5>Get In Touch</h5>
           <ul class="media-icon list-unstyled mb-8">
             <li>
-              <p class="mb-0">5th Street, 21st Floor, New York, USA </p>
+              <p class="mb-0">
+                TechNext Softech, 2nd Floor, Near Main Road, Pune, Maharashtra, India
+              </p>
             </li>
             <li>
-              <a href="mailto:themeht23@gmail.com">themeht23@gmail.com</a>
+              <a href="mailto:technextsoftech@gmail.com">technextsoftech@gmail.com</a>
             </li>
             <li>
-              <a href="tel:+912345678900">+91-234-567-8900</a>
+              <a href="tel:+919876543210">+91 98765 43210</a>
             </li>
           </ul>
+
           <h5>Follow Us</h5>
           <ul class="list-inline ps-0 ms-0 footer-social">
             <li class="list-inline-item">
-              <a href="#">
+              <a href="https://facebook.com/" target="_blank">
                 <i class="bi bi-facebook"></i>
               </a>
             </li>
             <li class="list-inline-item">
-              <a href="#">
-                <i class="bi bi-dribbble"></i>
-              </a>
-            </li>
-            <li class="list-inline-item">
-              <a href="#">
+              <a href="https://instagram.com/" target="_blank">
                 <i class="bi bi-instagram"></i>
               </a>
             </li>
             <li class="list-inline-item">
-              <a href="#">
+              <a href="https://twitter.com/" target="_blank">
                 <i class="bi bi-twitter"></i>
               </a>
             </li>
             <li class="list-inline-item">
-              <a href="#">
+              <a href="https://linkedin.com/" target="_blank">
                 <i class="bi bi-linkedin"></i>
+              </a>
+            </li>
+            <li class="list-inline-item">
+              <a href="https://youtube.com/" target="_blank">
+                <i class="bi bi-youtube"></i>
               </a>
             </li>
           </ul>
         </div>
+
+        <!-- ✅ Right Side -->
         <div class="col-lg-7 col-md-12 mt-6 mt-lg-0">
           <h5>Information</h5>
+
           <div class="row">
+            <!-- ✅ Company Links -->
             <div class="col-lg-4 col-md-4 mt-5 mt-md-0 footer-menu">
+              <h6 class="text-white mb-3">Company</h6>
               <ul class="list-unstyled w-100">
-                <li>
-                  <a href="about-us.html">About Us</a>
-                </li>
-                <li>
-                  <a href="services.html">Service</a>
-                </li>
-                <li>
-                  <a href="team.html">Team</a>
-                </li>
+                <li><a href="index.php">Home</a></li>
+                <li><a href="about-us.php">About Us</a></li>
+                <li><a href="our-team.php">Our Team</a></li>
+                <li><a href="career.php">Careers</a></li>
               </ul>
             </div>
+
+            <!-- ✅ Services Links -->
             <div class="col-lg-4 col-md-4 mt-5 mt-md-0 footer-menu">
+              <h6 class="text-white mb-3">Services</h6>
               <ul class="list-unstyled w-100">
-                <li>
-                  <a href="blog-right-sidebar.html">Blog</a>
-                </li>
-                <li>
-                  <a href="error-404.html">Error 404</a>
-                </li>
-                <li>
-                  <a href="contact.html">Contact Us</a>
-                </li>
+                <li><a href="web-development.php">Web Development</a></li>
+                <li><a href="mobile-app.php">Mobile App Development</a></li>
+                <li><a href="ui-ux.php">UI/UX Design</a></li>
+                <li><a href="digital-marketing.php">Digital Marketing</a></li>
               </ul>
             </div>
+
+            <!-- ✅ Support Links -->
             <div class="col-lg-4 col-md-4 mt-5 mt-md-0 footer-menu">
+              <h6 class="text-white mb-3">Support</h6>
               <ul class="list-unstyled">
-                <li>
-                  <a href="faq.html">Faq</a>
-                </li>
-                <li>
-                  <a href="privacy-policy.html">Privacy Policy</a>
-                </li>
-                <li>
-                  <a href="terms-and-conditions.html">Terms</a>
-                </li>
+                <li><a href="contact.php">Contact</a></li>
+                <li><a href="support.php">Support</a></li>
+                <li><a href="privacy-policy.php">Privacy Policy</a></li>
+                <li><a href="terms-and-conditions.php">Terms & Conditions</a></li>
               </ul>
             </div>
           </div>
+
+          <!-- ✅ Newsletter -->
           <div class="row mt-8">
             <div class="col-md-10">
               <h5>Subscribe Our Newsletter</h5>
               <div class="subscribe-form">
                 <form id="mc-form" class="mc-form">
-                  <input type="email" value="" name="EMAIL" class="email" id="mc-email" placeholder="Email Address" required="">
+                  <input type="email" value="" name="EMAIL" class="email" id="mc-email"
+                         placeholder="Email Address" required="">
                   <input class="subscribe-btn" type="submit" name="subscribe" value="Subscribe Now">
                 </form>
-                <small class="d-block mt-3">Get started for 1 Month free trial No Purchace required.</small>
+                <small class="d-block mt-3">
+                  Get latest updates, offers & tech news from TechNext Softech.
+                </small>
               </div>
             </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ✅ Copyright -->
+  <div class="secondary-footer">
+    <div class="container">
+      <div class="copyright">
+        <div class="row text-center">
+          <div class="col">
+            Copyright © <?php echo date("Y"); ?>
+            <b>Software Service </b> | All Rights Reserved.
           </div>
         </div>
       </div>
     </div>
   </div>
-  <div class="secondary-footer">
-    <div class="container">
-      <div class="copyright">
-        <div class="row text-center">
-          <div class="col">Copyright 2023 Soften Theme by <u>
-              <a href="#">ThemeHt</a>
-            </u> | All Rights Reserved </div>
-        </div>
-      </div>
-    </div>
-  </div>
 </footer>
-
 <!--footer end-->
 
-
 </div>
-
 <!-- page wrapper end -->
 
 
